@@ -3,4 +3,4 @@
 
 **Combinaison de touches :**![ctrl](../touches/CTRL.png) + ![l](../touches/L.png)
 
-**Visuel :** ![gif-ctrl+l](./gifs/CTRL-L.gif)
+**Visuel :** ![Sélectionner la ligne actuelle CTRL+L](./gifs/CTRL-L.gif)
