@@ -1,9 +1,9 @@
-## Raccourcis vs CTRL+C copier du contenu
+### Copier la line ou l'élément sélectionné CTRL+C  ###
 
-**Combinaison des touches clavier :** *ctrl*-*c*
+**Combinaison des touches clavier :** ![ctrl](../touches/CTRL.png) + ![C](../touches/C.png)
 
-**Description :** Permet de selectioner du contenu et de le copier.
+**Description :** Permet de le copier  du contenu ou la ligne complète sans avoir a la selectionnée il suffit de mettre le cursseur sur la ligne.
 
-**Visuel :** ![ Raccourci vs copier CTRL+C ](raccourcis/Screen%20CTRL+C.gif)
+**Visuel :** ![ CTRL+C](raccourcis/Screen%20CTRL+C.gif)
 
 **Catégorie :** Raccourcis basiques.
