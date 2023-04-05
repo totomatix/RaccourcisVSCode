@@ -1,8 +1,7 @@
 
 ### Coupe une zone de texte CTRL+ X
+**Descriptif :** Permet de couper une ligne entière ou une zone de texte sélectionnée.
 
-**Descriptif :** Permet de Couper une zone de texte sélectionnée pour la déplacer vers le presse-papier ou une autre zone du texte.
+**Combinaison de touches :**![ctrl](../touches/CTRL.png) + ![X](../touches/X.png)
 
-**Combinaison de touches :**![](../touches/CTRL.png) + ![](../touches/X.png)
-
-**Visuel :** ![Coupe une zone de texte CTRL+X](../gifs/CTRLX.gif)
+**Visuel :** ![Coupe une zone de texte CTRL+X](../gifs/CTRL.X.gif)
