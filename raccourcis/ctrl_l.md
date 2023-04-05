@@ -1,6 +1,6 @@
-### Positionner plusieurs curseurs ALT+Click ###
-**Descriptif:** Positionner plusieurs curseurs
+### Sélectionner la ligne actuelle CTRL+L ###
+**Descriptif :** Permet de sélectionner en entier la ligne actuelle, quelle que soit la position du curseur dans la ligne.
 
-**Combinaison de touches:**![ALT](../touches/ALT.png) + ![Click](../touches/SOURIS.png)
+**Combinaison de touches :**![ctrl](../touches/CTRL.png) + ![l](../touches/L.png)
 
-**Visuel:** ![gif-ctrl+l](./gifs/ALT-Click.gif)
+**Visuel :** ![Sélectionner la ligne actuelle CTRL+L](./gifs/CTRL-L.gif)
