@@ -1,6 +1,6 @@
 ### Positionner plusieurs curseurs ALT+Click 
-**Descriptif:** Permet de positionner plusieurs curseurs où le désire l'utilisateur.
+**Descriptif:** Permet de positionner plusieurs curseurs où le désire l'utilisateur pour permettre la modification.
 
 **Combinaison de touches:**![ALT](../touches/ALT.png) + ![Click](../touches/SOURIS.png)
 
-**Visuel:** ![gif-ctrl+l](./gifs/ALT-Click.gif)
+**Visuel:** ![Positionner plusieurs curseurs ALT+Click](./gifs/ALT-Click.gif)
