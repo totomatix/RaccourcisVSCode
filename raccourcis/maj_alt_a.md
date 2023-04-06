@@ -1,6 +1,6 @@
 ### Commenter/décommenter un bloc + MAJ + ALT + A
 
-**Descriptif:** Permet de commenter/décommenter le bloc de texte sélectionné.
+**Descriptif :** Permet de commenter/décommenter le bloc de texte sélectionné.
 
 **Combinaison de touches :** ![MAJ](../touches/MAJ.png)+![ALT](../touches/ALT.png)+![A](../touches/A.png)
 
