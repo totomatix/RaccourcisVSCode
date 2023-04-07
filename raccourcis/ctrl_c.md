@@ -1,4 +1,4 @@
-### Copier la line ou l'élément sélectionné CTRL+C  ###
+### Copier la ligne ou le contenu sélectionné CTRL+C
 
 **Combinaison de touches :** ![ctrl](../touches/CTRL.png) + ![C](../touches/C.png)
 
@@ -6,6 +6,6 @@
 
 **Visuel :** ![ CTRL+C](./gifs/CTRL+C.gif)
 
-**Catégorie :** Raccourcis basiques.
+**Catégorie :** Raccourcis basiques
 
 
