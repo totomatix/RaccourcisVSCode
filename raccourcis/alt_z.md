@@ -4,9 +4,4 @@
 
 **Combinaison de touches :** ![alt](../touches/ALT.png) + ![z](../touches/Z.png)
 
-**Visuel :** ![Basculer le retour à la ligne ALT+Z](./gifs/ALT_Z.gif)
-
-{
-  "key": "alt+z",
-  "command": "editor.action.toggleWordWrap"
-}
+**Visuel :** ![Activer, désactiver le retour automatique à la ligne ALT+Z](./gifs/ALT_Z.gif)
