@@ -1,4 +1,4 @@
-### insérer un commentaire ou de mettre la sélection en commentaire CTRL+/ ###
+### Commenter la ligne entière où est positionné le curseur ou une zone sélectionnée CTRL + / ###
 
 **Descriptif :** Permet de commenter la ligne entière où est positionné le curseur ou une zone sélectionnée
 
