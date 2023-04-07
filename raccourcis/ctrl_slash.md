@@ -4,4 +4,4 @@
 
 **Combinaison de touches :** ![ctrl](../touches/CTRL.png) + ![/](../touches/SLASH.png)
 
-**Visuel :** ![insérer un commentaire ou de mettre la sélection en commentaire CTRL+/](./gifs/CTRL_Slash.gif)
+**Visuel :** ![Commenter la ligne entière où est positionné le curseur ou une zone sélectionnée CTRL + /](./gifs/CTRL_Slash.gif)
