@@ -1,6 +1,6 @@
 ### Basculer le retour à la ligne ALT+Z
 
-**Descriptif :** Permet d'afficher les lignes qui débordent à droite de l'écran, de les afficher à l'écran, ou inversement.
+**Descriptif :** Permet d'adapter l'affichage de la page à l'écran par des retours à la ligne, ou revenir à un affichage sans sauts de ligne
 
 **Combinaison de touches :** ![alt](../touches/ALT.png) + ![z](../touches/Z.png)
 
