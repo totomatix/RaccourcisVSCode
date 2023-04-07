@@ -1,7 +1,7 @@
-### Retour arrière ALT+Z
+### Basculer le retour à la ligne ALT+Z
 
-**Descriptif :** Permer d'annuler les oppérations précédentes, de revenir en arrière sur les actions réalisées.
+**Descriptif :** Permer d'afficher les lignes qui débordent à droite de l'écran, de les afficher à l'écrant, ou inversement.
 
 **Combinaison de touches :** ![alt](../touches/ALT.png) + ![z](../touches/Z.png)
 
-**Visuel :** ![Retour arrière ALT+Z](./gifs/ALT_Z.gif)
+**Visuel :** ![Basculer le retour à la ligne ALT+Z](./gifs/ALT_Z.gif)
