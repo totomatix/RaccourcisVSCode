@@ -1,4 +1,4 @@
-### Déplacer la ligne sur laquelle se trouve le curseur au dessus/au dessous alt + haut/bas 
+### Déplacer la ligne sur laquelle se trouve le curseur au-dessus/en dessous alt + haut/bas 
 
 **Descriptif :** Déplacer une ligne au dessus/au dessous.
 
