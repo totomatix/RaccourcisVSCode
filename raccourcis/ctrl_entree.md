@@ -4,5 +4,4 @@
 
 **Combinaison de touches :** ![Ctrl](../touches/CTRL.png) + ![Entrée](../touches/ENTREE.png)
 
-
-**Visuel :** ![Insérer une ligne en dessous du curseur](gifs/CtrlEntre.gif)
+**Visuel :** ![Insérer une ligne en dessous du curseur — CTRL + ENTREE](gifs/CtrlEntre.gif)
