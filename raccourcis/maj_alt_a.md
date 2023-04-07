@@ -1,4 +1,4 @@
-### Commenter/décommenter un bloc + MAJ + ALT + A
+### Commenter/décommenter un bloc MAJ + ALT + A
 
 **Descriptif :** Permet de commenter/décommenter le bloc de texte sélectionné.
 
